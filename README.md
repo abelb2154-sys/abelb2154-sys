@@ -26,15 +26,6 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
-</div>
-
----
-
 ### 📫 Conecte-se comigo
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)]([https://seu-portfolio.netlify.appr](https://portfolio2154.netlify.app/portfolio_cont-main/portfolio_ebol/no1verde/oldie/pem/home/))
