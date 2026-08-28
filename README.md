@@ -26,7 +26,10 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 
 ---
 
-### 📫 Conecte-se comigo
+### Porftfolio e roadmap:
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)]([https://seu-portfolio.netlify.appr](https://portfolio2154.netlify.app/portfolio_cont-main/portfolio_ebol/no1verde/oldie/pem/home/))
+[![Portfolio Badge](https://img.shields.io/badge/Portfólio-Visitar-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
+
+---
+
 [![roadmap.sh](https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark&roadmaps=html%2Ccss)]([https://roadmap.sh](https://roadmap.sh/u/abelvb))
