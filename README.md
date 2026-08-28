@@ -28,7 +28,7 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 
 ### Porftfolio e roadmap:
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfólio-Visitar-007ACC?style=for-the-badge)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
+[![Portfolio Badge](https://img.shields.io/badge/Portfólio-𝑱𝒊𝒔𝒊𝒕𝒂𝒓-007ACC?style=for-the-badge)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
 
 ---
 
