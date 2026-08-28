@@ -8,8 +8,7 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 ### 🚀 Sobre mim
 - 🎓 Estudante de **Ciência da Computação**
 - 🛠️ Atualmente desenvolvendo projetos com **Python**
-- 💡 Interesses em **Algoritmos e Game Dev**[![Portfolio Badge](https://img.shields.io/badge/Portfólio-Visitar-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
-
+- 💡 Interesses em **Algoritmos e Game Dev**
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -28,7 +27,7 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 
 ### Porftfolio e roadmap:
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfólio-𝑱𝒊𝒔𝒊𝒕𝒂𝒓-007ACC?style=for-the-badge)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-007ACC?style=for-the-badge)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
 
 ---
 
