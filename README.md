@@ -30,5 +30,4 @@ Desenvolvedor Independente apaixonado por **Desenvolvimento Web/Games**.
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-007ACC?style=for-the-badge)](https://portfolioabel2154.netlify.app/portfolio/home/index.html)
 
 ---
-
-[![roadmap.sh](https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark&roadmaps=html%2Ccss)]([https://roadmap.sh](https://roadmap.sh/u/abelvb))
+[![roadmap.sh](https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark&roadmaps=html%2Ccss)](https://roadmap.sh)
